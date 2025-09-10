@@ -5,3 +5,5 @@ if hw_done == "yes":
     print("Good job")
 else:
     print("bad job")
+    
+print("last git study homework done!!")
